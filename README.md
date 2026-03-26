@@ -2,4 +2,6 @@
 
 A
 B
-C pero desde main
+C main (esto lo resolvi en un conflicto)
+D
+
